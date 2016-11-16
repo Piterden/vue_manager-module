@@ -1,0 +1,9 @@
+{
+    "name": "defr/vue_manager-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Defr\\VueManagerModule\\": "src/"
+        }
+    }
+}
